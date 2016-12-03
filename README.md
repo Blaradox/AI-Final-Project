@@ -30,8 +30,7 @@ The competition covers a host of topics, the current competition is especially i
 > - \# of data: 8,407,752 / 510,302 (testing)
 >  \# of features: 20,216,830 / 20,216,830 (testing)
 > 
-> Files:
-> 
+> Files:  
 > - kdda.bz2
 > - kdda.t.bz2 (testing)
 
